@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="63" started-at="2022-05-16T11:26:01 IST" finished-at="2022-05-16T11:26:01 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="63" started-at="2022-05-16T11:26:01 IST" finished-at="2022-05-16T11:26:01 IST">
+      <class name="com.maven.Simple_Annotations">
+        <test-method status="PASS" signature="setproperty()[pri:0, instance:com.maven.Simple_Annotations@4232c52b]" name="setproperty" is-config="true" duration-ms="11" started-at="2022-05-16T11:26:01 IST" finished-at="2022-05-16T11:26:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setproperty -->
+        <test-method status="PASS" signature="browserLaunch()[pri:0, instance:com.maven.Simple_Annotations@4232c52b]" name="browserLaunch" is-config="true" duration-ms="1" started-at="2022-05-16T11:26:01 IST" finished-at="2022-05-16T11:26:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method status="PASS" signature="url()[pri:0, instance:com.maven.Simple_Annotations@4232c52b]" name="url" is-config="true" duration-ms="1" started-at="2022-05-16T11:26:01 IST" finished-at="2022-05-16T11:26:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- url -->
+        <test-method status="PASS" signature="signin()[pri:0, instance:com.maven.Simple_Annotations@4232c52b]" name="signin" is-config="true" duration-ms="1" started-at="2022-05-16T11:26:01 IST" finished-at="2022-05-16T11:26:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signin -->
+        <test-method status="PASS" signature="dresses()[pri:0, instance:com.maven.Simple_Annotations@4232c52b]" name="dresses" duration-ms="9" started-at="2022-05-16T11:26:01 IST" finished-at="2022-05-16T11:26:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dresses -->
+        <test-method status="PASS" signature="signoff()[pri:0, instance:com.maven.Simple_Annotations@4232c52b]" name="signoff" is-config="true" duration-ms="0" started-at="2022-05-16T11:26:01 IST" finished-at="2022-05-16T11:26:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signoff -->
+        <test-method status="PASS" signature="tshirts()[pri:0, instance:com.maven.Simple_Annotations@4232c52b]" name="tshirts" duration-ms="2" started-at="2022-05-16T11:26:01 IST" finished-at="2022-05-16T11:26:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tshirts -->
+        <test-method status="PASS" signature="signin()[pri:0, instance:com.maven.Simple_Annotations@4232c52b]" name="signin" is-config="true" duration-ms="0" started-at="2022-05-16T11:26:01 IST" finished-at="2022-05-16T11:26:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signin -->
+        <test-method status="PASS" signature="signin()[pri:0, instance:com.maven.Simple_Annotations@4232c52b]" name="signin" is-config="true" duration-ms="1" started-at="2022-05-16T11:26:01 IST" finished-at="2022-05-16T11:26:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signin -->
+        <test-method status="PASS" signature="signoff()[pri:0, instance:com.maven.Simple_Annotations@4232c52b]" name="signoff" is-config="true" duration-ms="0" started-at="2022-05-16T11:26:01 IST" finished-at="2022-05-16T11:26:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signoff -->
+        <test-method status="PASS" signature="women()[pri:0, instance:com.maven.Simple_Annotations@4232c52b]" name="women" duration-ms="1" started-at="2022-05-16T11:26:01 IST" finished-at="2022-05-16T11:26:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- women -->
+        <test-method status="PASS" signature="signoff()[pri:0, instance:com.maven.Simple_Annotations@4232c52b]" name="signoff" is-config="true" duration-ms="0" started-at="2022-05-16T11:26:01 IST" finished-at="2022-05-16T11:26:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signoff -->
+        <test-method status="PASS" signature="homePage()[pri:0, instance:com.maven.Simple_Annotations@4232c52b]" name="homePage" is-config="true" duration-ms="1" started-at="2022-05-16T11:26:01 IST" finished-at="2022-05-16T11:26:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePage -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.maven.Simple_Annotations@4232c52b]" name="close" is-config="true" duration-ms="0" started-at="2022-05-16T11:26:01 IST" finished-at="2022-05-16T11:26:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="deleteCOokies()[pri:0, instance:com.maven.Simple_Annotations@4232c52b]" name="deleteCOokies" is-config="true" duration-ms="0" started-at="2022-05-16T11:26:01 IST" finished-at="2022-05-16T11:26:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCOokies -->
+      </class> <!-- com.maven.Simple_Annotations -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
